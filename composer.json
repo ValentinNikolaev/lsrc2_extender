@@ -1,0 +1,15 @@
+{
+  "name": "valentinnikolaev/lsrrc2_extender",
+  "description": "API Extender for Lime Survey",
+  "type": "project",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Valentin Nikolaev",
+      "email": "valeinikolaev@gmaiil.com"
+    }
+  ],
+  "require": {
+    "weberhofer/jsonrpcphp": "~2"
+  }
+}
